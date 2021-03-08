@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "browser-resolve": "^1.11.0",
-    "chokidar": "^2.0.0",
+    "chokidar": "^3.0.0",
     "combine-source-map": "^0.8.0",
     "concat-stream": "^1.5.1",
     "convert-source-map": "^1.2.0",
