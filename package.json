@@ -23,7 +23,7 @@
     "mock-stdin": "^0.3.0",
     "object-assign": "^4.0.1",
     "rc": "^1.1.6",
-    "resolve": "^1.1.7",
+    "resolve": "^1.21.0",
     "serializerr": "^1.0.2",
     "sliced": "^1.0.1",
     "strip-bom": "^2.0.0",
